@@ -25,9 +25,14 @@
 
 - 오른쪽 Option 키를 누르면 fn 키로 동작합니다.
 
-## Tap + Q, D, S, E, C, T 설정
+## Tap Option 설정
 
-- Tab 키와 함께 Q, D, S, E, C, T 키를 누르면 각각 Mission Control, DockBar focus, StatusBar focus, Crome 실행, VS Code 실행, iTerm2 실행으로 동작합니다.
+- **Tap + Q:** Mission Control 실행
+- **Tap + D:** DockBar 포커스
+- **Tap + S:** StatusBar 포커스
+- **Tap + E:** Google Chrome 실행
+- **Tap + C:** Visual Studio Code 실행
+- **Tap + T:** iTerm2 실행
 
 ## Right Shift + A, D 설정
 
