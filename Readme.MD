@@ -6,6 +6,8 @@
 
 - Caps Lock 키를 누르면 HyperKey로 동작합니다.
 - 단독으로 Caps Lock 키를 누르면 left_shift, left_command, left_control, left_option 키를 누른 것으로 동작합니다.
+## HyperKey + U,O 설정
+- HyperKey와 함께 U, O 키를 누르면 각각 command+좌,우(Home,End) 방향키로 동작합니다.
 
 ## HyperKey + IJKL 설정
 
@@ -19,7 +21,6 @@
 ## Right Command 설정
 
 - 오른쪽 Command 키를 누르면 다른 키와 함께 누르면 switch lang으로 동작합니다.
-- 단독으로 오른쪽 Command 키를 누르면 spacebar를 누른 것으로 동작합니다.
 
 ## Right Option 설정
 
