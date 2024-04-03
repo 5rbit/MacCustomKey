@@ -6,6 +6,8 @@
 
 - Caps Lock 키를 누르면 HyperKey로 동작합니다.
 - 단독으로 Caps Lock 키를 누르면 left_shift, left_command, left_control, left_option 키를 누른 것으로 동작합니다.
+- 다른키와 중복으로 사용하지 않는 경우 마우스 왼쪽 클릭으로 인식합니다.(마우스클릭 피로감 감소)
+  
 ## HyperKey + U,O 설정
 - HyperKey와 함께 U, O 키를 누르면 각각 command+좌,우(Home,End) 방향키로 동작합니다.
 
@@ -38,6 +40,7 @@
 ## Right Shift + A, D 설정
 
 - 오른쪽 Shift 키와 함께 A, D 키를 누르면 각각 Control + 왼쪽 방향키, Control + 오른쪽 방향키로 동작합니다.
+- 웹브라우저 및 VS Code에서 탭 이동을 간편하게 할 수 있습니다.
 
 ## Right Shift + 1, 2, 3 설정
 
