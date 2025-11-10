@@ -30,7 +30,7 @@
                                     }
                                 },
                                 "to": [
-                                    {
+                                    { 
                                         "key_code": "left_shift",
                                         "modifiers": [
                                             "left_command",
